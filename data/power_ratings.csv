@@ -1,190 +1,190 @@
 sport,team,rating,games,last_game,as_of
-cfb,Notre Dame Fighting Irish,28.58,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Miami Hurricanes,24.98,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,Ohio State Buckeyes,18.91,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,Indiana Hoosiers,16.01,6,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Louisville Cardinals,14.98,5,2026-10-31 19:15:00+00:00,2026-11-06
-cfb,SMU Mustangs,14.43,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,LSU Tigers,13.84,5,2026-10-24 16:00:00+00:00,2026-11-06
-cfb,Georgia Bulldogs,13.57,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Boise State Broncos,13.51,5,2026-11-01 02:00:00+00:00,2026-11-06
-cfb,Texas Tech Red Raiders,12.48,5,2026-10-31 16:15:00+00:00,2026-11-06
-cfb,Alabama Crimson Tide,11.83,5,2026-10-24 19:30:00+00:00,2026-11-06
-cfb,Wake Forest Demon Deacons,11.8,5,2026-10-31 19:45:00+00:00,2026-11-06
-cfb,Texas Longhorns,11.73,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,BYU Cougars,11.34,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Utah Utes,11.13,5,2026-10-31 19:45:00+00:00,2026-11-06
-cfb,Florida State Seminoles,10.9,5,2026-10-31 23:00:00+00:00,2026-11-06
-cfb,North Texas Mean Green,10.75,5,2026-10-29 23:30:00+00:00,2026-11-06
-cfb,Memphis Tigers,10.22,5,2026-11-01 00:00:00+00:00,2026-11-06
-cfb,Virginia Tech Hokies,9.83,5,2026-10-24 23:00:00+00:00,2026-11-06
-cfb,Oregon Ducks,9.71,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,James Madison Dukes,9.54,7,2026-11-06 01:00:00+00:00,2026-11-06
-cfb,Pittsburgh Panthers,9.53,6,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,Clemson Tigers,9.32,5,2026-10-31 23:00:00+00:00,2026-11-06
-cfb,New Mexico Lobos,9.04,5,2026-10-31 20:00:00+00:00,2026-11-06
-cfb,UTSA Roadrunners,9.03,6,2026-11-06 00:30:00+00:00,2026-11-06
-cfb,Oregon State Beavers,8.47,5,2026-11-01 03:00:00+00:00,2026-11-06
-cfb,Toledo Rockets,8.34,6,2026-11-05 00:00:00+00:00,2026-11-06
-cfb,Duke Blue Devils,8.19,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Michigan Wolverines,8.18,5,2026-10-31 16:30:00+00:00,2026-11-06
-cfb,Virginia Cavaliers,7.96,6,2026-10-31 19:45:00+00:00,2026-11-06
-cfb,Texas State Bobcats,7.93,5,2026-11-01 02:00:00+00:00,2026-11-06
-cfb,Houston Cougars,7.8,5,2026-10-25 02:15:00+00:00,2026-11-06
-cfb,Liberty Flames,7.39,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Arizona Wildcats,7.33,5,2026-10-31 16:15:00+00:00,2026-11-06
-cfb,Ole Miss Rebels,7.29,5,2026-10-31 16:45:00+00:00,2026-11-06
-cfb,Northwestern Wildcats,7.23,6,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,South Florida Bulls,7.16,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,North Carolina Tar Heels,6.97,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,Oklahoma State Cowboys,6.95,5,2026-10-31 23:00:00+00:00,2026-11-06
-cfb,North Dakota State Bison,6.9,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,USC Trojans,6.81,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,NC State Wolfpack,6.79,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Texas A&M Aggies,6.4,5,2026-10-24 19:30:00+00:00,2026-11-06
-cfb,Western Michigan Broncos,6.31,6,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Penn State Nittany Lions,6.03,5,2026-10-31 20:15:00+00:00,2026-11-06
-cfb,UCLA Bruins,6.02,5,2026-10-31 20:15:00+00:00,2026-11-06
-cfb,Florida Gators,5.97,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,East Carolina Pirates,5.61,5,2026-10-31 19:00:00+00:00,2026-11-06
-cfb,Army Black Knights,5.11,6,2026-11-01 00:00:00+00:00,2026-11-06
-cfb,Nebraska Cornhuskers,5.02,5,2026-11-01 00:00:00+00:00,2026-11-06
-cfb,Baylor Bears,4.71,5,2026-10-30 23:30:00+00:00,2026-11-06
-cfb,TCU Horned Frogs,4.38,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Ohio Bobcats,4.27,6,2026-11-04 00:00:00+00:00,2026-11-06
-cfb,Louisiana Tech Bulldogs,4.16,5,2026-10-31 19:00:00+00:00,2026-11-06
-cfb,UNLV Rebels,4.01,5,2026-11-01 02:30:00+00:00,2026-11-06
-cfb,Tennessee Volunteers,3.61,5,2026-10-24 19:30:00+00:00,2026-11-06
-cfb,Iowa Hawkeyes,3.55,5,2026-10-31 16:10:00+00:00,2026-11-06
-cfb,Georgia Tech Yellow Jackets,3.38,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,Florida Atlantic Owls,3.33,6,2026-11-06 00:30:00+00:00,2026-11-06
-cfb,Missouri Tigers,3.33,5,2026-10-31 23:45:00+00:00,2026-11-06
-cfb,Temple Owls,3.32,5,2026-10-31 19:00:00+00:00,2026-11-06
-cfb,Kansas State Wildcats,3.29,5,2026-10-31 18:00:00+00:00,2026-11-06
-cfb,Oklahoma Sooners,3.19,5,2026-10-31 20:15:00+00:00,2026-11-06
-cfb,Kentucky Wildcats,3.14,5,2026-10-24 23:30:00+00:00,2026-11-06
-cfb,Wisconsin Badgers,2.69,5,2026-10-31 16:10:00+00:00,2026-11-06
-cfb,Fresno State Bulldogs,2.29,5,2026-11-01 03:00:00+00:00,2026-11-06
-cfb,Kansas Jayhawks,2.21,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Tulane Green Wave,2.2,5,2026-10-30 23:00:00+00:00,2026-11-06
-cfb,Tulsa Golden Hurricane,1.91,5,2026-10-24 00:30:00+00:00,2026-11-06
-cfb,South Carolina Gamecocks,1.88,5,2026-10-31 20:15:00+00:00,2026-11-06
-cfb,Jacksonville State Gamecocks,1.76,4,2026-10-29 00:00:00+00:00,2026-11-06
-cfb,Navy Midshipmen,1.73,6,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Louisiana Ragin Cajuns,1.65,5,2026-10-24 21:00:00+00:00,2026-11-06
-cfb,Florida International Panthers,1.58,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Arizona State Sun Devils,1.51,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Syracuse Orange,1.49,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,UConn Huskies,1.45,5,2026-10-31 19:00:00+00:00,2026-11-06
-cfb,Washington Huskies,1.14,5,2026-11-01 00:00:00+00:00,2026-11-06
-cfb,UAB Blazers,1.11,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Miami (OH) RedHawks,0.96,6,2026-11-04 01:00:00+00:00,2026-11-06
-cfb,Auburn Tigers,0.63,5,2026-10-31 16:45:00+00:00,2026-11-06
-cfb,California Golden Bears,0.16,6,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Georgia State Panthers,0.04,5,2026-10-31 18:00:00+00:00,2026-11-06
-cfb,Boston College Eagles,0.01,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Illinois Fighting Illini,0.0,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Air Force Falcons,-0.06,6,2026-10-31 19:00:00+00:00,2026-11-06
-cfb,UCF Knights,-0.08,5,2026-10-30 23:30:00+00:00,2026-11-06
-cfb,Cincinnati Bearcats,-0.22,5,2026-10-31 19:45:00+00:00,2026-11-06
-cfb,West Virginia Mountaineers,-0.47,5,2026-10-24 16:00:00+00:00,2026-11-06
-cfb,Georgia Southern Eagles,-0.81,5,2026-10-31 22:30:00+00:00,2026-11-06
-cfb,Mississippi State Bulldogs,-0.99,5,2026-10-31 23:30:00+00:00,2026-11-06
-cfb,Marshall Thundering Herd,-1.02,5,2026-10-31 17:00:00+00:00,2026-11-06
-cfb,Western Kentucky Hilltoppers,-1.04,5,2026-10-27 23:00:00+00:00,2026-11-06
-cfb,Iowa State Cyclones,-1.1,5,2026-10-31 23:00:00+00:00,2026-11-06
-cfb,Stanford Cardinal,-1.48,6,2026-10-31 19:15:00+00:00,2026-11-06
-cfb,Utah State Aggies,-1.56,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Appalachian State Mountaineers,-1.6,5,2026-10-31 22:30:00+00:00,2026-11-06
-cfb,Eastern Michigan Eagles,-1.94,6,2026-11-05 00:30:00+00:00,2026-11-06
-cfb,Colorado Buffaloes,-1.98,5,2026-10-31 18:00:00+00:00,2026-11-06
-cfb,South Alabama Jaguars,-2.19,5,2026-10-31 19:00:00+00:00,2026-11-06
-cfb,Minnesota Golden Gophers,-2.22,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Arkansas State Red Wolves,-2.27,5,2026-10-24 23:00:00+00:00,2026-11-06
-cfb,Coastal Carolina Chanticleers,-2.27,5,2026-10-31 18:00:00+00:00,2026-11-06
-cfb,New Mexico State Aggies,-2.33,5,2026-10-29 00:00:00+00:00,2026-11-06
-cfb,San Diego State Aztecs,-2.42,6,2026-10-31 23:00:00+00:00,2026-11-06
-cfb,Delaware Blue Hens,-2.46,5,2026-10-27 23:00:00+00:00,2026-11-06
-cfb,Purdue Boilermakers,-2.51,5,2026-10-31 20:15:00+00:00,2026-11-06
-cfb,Troy Trojans,-2.9,5,2026-10-29 23:30:00+00:00,2026-11-06
-cfb,Central Michigan Chippewas,-2.92,6,2026-11-05 00:30:00+00:00,2026-11-06
-cfb,Washington State Cougars,-2.94,6,2026-10-31 23:00:00+00:00,2026-11-06
-cfb,Buffalo Bulls,-3.4,6,2026-11-04 01:00:00+00:00,2026-11-06
-cfb,Kennesaw State Owls,-3.66,5,2026-10-28 23:00:00+00:00,2026-11-06
-cfb,Rice Owls,-3.94,5,2026-10-24 16:00:00+00:00,2026-11-06
-cfb,Colorado State Rams,-4.0,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Michigan State Spartans,-4.32,5,2026-10-24 19:30:00+00:00,2026-11-06
-cfb,Maryland Terrapins,-4.63,5,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Vanderbilt Commodores,-4.7,5,2026-10-24 23:30:00+00:00,2026-11-06
-cfb,Old Dominion Monarchs,-5.03,6,2026-10-31 17:00:00+00:00,2026-11-06
-cfb,Rutgers Scarlet Knights,-5.2,5,2026-10-31 16:30:00+00:00,2026-11-06
-cfb,Missouri State Bears,-5.22,5,2026-10-28 00:00:00+00:00,2026-11-06
-cfb,Middle Tennessee Blue Raiders,-5.87,5,2026-10-28 23:00:00+00:00,2026-11-06
-cfb,Nevada Wolf Pack,-5.89,5,2026-10-31 20:15:00+00:00,2026-11-06
-cfb,San Jose State Spartans,-6.13,5,2026-10-31 20:00:00+00:00,2026-11-06
-cfb,Kent State Golden Flashes,-6.15,6,2026-10-31 02:30:00+00:00,2026-11-06
-cfb,Bowling Green Falcons,-6.27,6,2026-10-31 16:05:00+00:00,2026-11-06
-cfb,Arkansas Razorbacks,-6.49,5,2026-10-31 23:45:00+00:00,2026-11-06
-cfb,Hawaii Rainbow Warriors,-6.92,5,2026-10-24 19:30:00+00:00,2026-11-06
-cfb,UMass Minutemen,-6.97,6,2026-11-05 00:00:00+00:00,2026-11-06
-cfb,Sam Houston State Bearkats,-7.13,5,2026-10-28 00:00:00+00:00,2026-11-06
-cfb,Wyoming Cowboys,-7.5,5,2026-10-24 01:00:00+00:00,2026-11-06
-cfb,Akron Zips,-8.13,6,2026-11-04 00:00:00+00:00,2026-11-06
-cfb,Southern Mississippi Golden Eagles,-8.76,6,2026-11-06 01:00:00+00:00,2026-11-06
-cfb,Ball State Cardinals,-9.42,6,2026-11-05 00:00:00+00:00,2026-11-06
-cfb,Incarnate Word Cardinals,-10.85,1,2026-09-26 22:00:00+00:00,2026-11-06
-cfb,Charlotte 49ers,-10.96,5,2026-10-30 23:00:00+00:00,2026-11-06
-cfb,Northern Illinois Huskies,-11.3,5,2026-11-01 02:30:00+00:00,2026-11-06
-cfb,UL Monroe Warhawks,-12.13,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,UTEP Miners,-12.38,5,2026-10-31 19:30:00+00:00,2026-11-06
-cfb,Gardner-Webb Runnin Bulldogs,-12.7,1,2026-09-26 19:30:00+00:00,2026-11-06
-cfb,Houston Baptist Huskies,-13.17,1,2026-09-26 23:30:00+00:00,2026-11-06
-cfb,Lindenwood Lions,-13.19,1,2026-09-26 17:00:00+00:00,2026-11-06
-cfb,Stonehill Skyhawks,-13.67,1,2026-09-26 19:30:00+00:00,2026-11-06
-cfb,Sacramento State Hornets,-15.62,6,2026-11-05 00:00:00+00:00,2026-11-06
-cfb,Robert Morris Colonials,-15.67,1,2026-09-26 19:30:00+00:00,2026-11-06
-cfb,North Carolina Central Eagles,-15.69,1,2026-09-26 20:00:00+00:00,2026-11-06
-cfb,Samford Bulldogs,-15.69,1,2026-10-03 19:30:00+00:00,2026-11-06
-cfb,William and Mary Tribe,-16.98,1,2026-09-26 19:30:00+00:00,2026-11-06
-cfb,Central Arkansas Bears,-17.64,1,2026-09-26 19:00:00+00:00,2026-11-06
-cfb,LIU Sharks,-17.91,1,2026-09-26 22:00:00+00:00,2026-11-06
-cfb,Charleston Southern Buccaneers,-20.67,1,2026-10-17 16:00:00+00:00,2026-11-06
-cfb,Mercyhurst Lakers,-21.02,1,2026-09-26 23:00:00+00:00,2026-11-06
-cfb,McNeese State Cowboys,-21.24,1,2026-10-03 23:45:00+00:00,2026-11-06
-cfb,Elon Phoenix,-21.68,1,2026-10-17 23:30:00+00:00,2026-11-06
-cfb,Bucknell Bison,-22.25,1,2026-09-26 16:00:00+00:00,2026-11-06
-cfb,Texas Southern Tigers,-23.03,1,2026-10-03 22:00:00+00:00,2026-11-06
-cfb,Citadel Bulldogs,-23.96,1,2026-10-17 17:00:00+00:00,2026-11-06
-cfb,Howard Bison,-24.34,1,2026-09-25 23:00:00+00:00,2026-11-06
-nfl,Jacksonville Jaguars,5.46,7,2026-11-06 01:15:00+00:00,2026-11-06
-nfl,Cincinnati Bengals,4.42,5,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Seattle Seahawks,4.34,7,2026-11-03 01:20:00+00:00,2026-11-06
-nfl,Los Angeles Rams,3.7,7,2026-11-01 21:05:00+00:00,2026-11-06
-nfl,Kansas City Chiefs,3.65,6,2026-11-01 21:25:00+00:00,2026-11-06
-nfl,Detroit Lions,3.28,5,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,San Francisco 49ers,2.97,6,2026-10-25 17:00:00+00:00,2026-11-06
-nfl,Houston Texans,2.92,5,2026-10-25 17:00:00+00:00,2026-11-06
-nfl,Buffalo Bills,2.82,5,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Minnesota Vikings,2.02,5,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Denver Broncos,1.79,7,2026-11-01 21:25:00+00:00,2026-11-06
-nfl,Dallas Cowboys,1.74,7,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Green Bay Packers,1.05,6,2026-10-30 00:15:00+00:00,2026-11-06
-nfl,New England Patriots,1.05,6,2026-11-01 21:25:00+00:00,2026-11-06
-nfl,Chicago Bears,0.86,6,2026-11-03 01:20:00+00:00,2026-11-06
-nfl,Pittsburgh Steelers,0.67,6,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Baltimore Ravens,-0.25,7,2026-11-06 01:15:00+00:00,2026-11-06
-nfl,Carolina Panthers,-0.51,5,2026-10-30 00:15:00+00:00,2026-11-06
-nfl,Atlanta Falcons,-1.36,6,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Indianapolis Colts,-1.41,7,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Los Angeles Chargers,-1.62,6,2026-11-01 21:05:00+00:00,2026-11-06
-nfl,New Orleans Saints,-1.91,5,2026-10-25 13:30:00+00:00,2026-11-06
-nfl,Washington Commanders,-2.2,6,2026-11-02 01:20:00+00:00,2026-11-06
-nfl,Tampa Bay Buccaneers,-2.23,6,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Las Vegas Raiders,-2.36,7,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,New York Jets,-2.59,6,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Philadelphia Eagles,-2.78,6,2026-11-02 01:20:00+00:00,2026-11-06
-nfl,Cleveland Browns,-2.95,6,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,Arizona Cardinals,-3.75,7,2026-11-01 18:00:00+00:00,2026-11-06
-nfl,New York Giants,-4.61,6,2026-10-25 17:00:00+00:00,2026-11-06
-nfl,Miami Dolphins,-5.82,6,2026-11-01 21:25:00+00:00,2026-11-06
-nfl,Tennessee Titans,-6.4,6,2026-11-01 18:00:00+00:00,2026-11-06
+cfb,Notre Dame Fighting Irish,28.45,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Miami Hurricanes,24.92,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,Ohio State Buckeyes,18.76,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,Indiana Hoosiers,16.02,6,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Louisville Cardinals,14.87,5,2026-10-31 19:15:00+00:00,2026-11-07
+cfb,SMU Mustangs,13.98,6,2026-11-07 00:00:00+00:00,2026-11-07
+cfb,LSU Tigers,13.8,5,2026-10-24 16:00:00+00:00,2026-11-07
+cfb,Boise State Broncos,13.48,5,2026-11-01 02:00:00+00:00,2026-11-07
+cfb,Georgia Bulldogs,13.47,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Texas Tech Red Raiders,12.43,5,2026-10-31 16:15:00+00:00,2026-11-07
+cfb,Alabama Crimson Tide,11.75,5,2026-10-24 19:30:00+00:00,2026-11-07
+cfb,Wake Forest Demon Deacons,11.68,5,2026-10-31 19:45:00+00:00,2026-11-07
+cfb,Texas Longhorns,11.65,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,BYU Cougars,11.21,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Utah Utes,11.04,5,2026-10-31 19:45:00+00:00,2026-11-07
+cfb,Florida State Seminoles,10.87,5,2026-10-31 23:00:00+00:00,2026-11-07
+cfb,North Texas Mean Green,10.73,5,2026-10-29 23:30:00+00:00,2026-11-07
+cfb,Virginia Tech Hokies,10.19,6,2026-11-07 00:00:00+00:00,2026-11-07
+cfb,Memphis Tigers,10.15,5,2026-11-01 00:00:00+00:00,2026-11-07
+cfb,Oregon Ducks,9.64,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Pittsburgh Panthers,9.56,6,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,James Madison Dukes,9.54,7,2026-11-06 01:00:00+00:00,2026-11-07
+cfb,Clemson Tigers,9.4,5,2026-10-31 23:00:00+00:00,2026-11-07
+cfb,UTSA Roadrunners,9.02,6,2026-11-06 00:30:00+00:00,2026-11-07
+cfb,New Mexico Lobos,8.79,6,2026-11-07 02:00:00+00:00,2026-11-07
+cfb,Oregon State Beavers,8.45,5,2026-11-01 03:00:00+00:00,2026-11-07
+cfb,Toledo Rockets,8.38,6,2026-11-05 00:00:00+00:00,2026-11-07
+cfb,Duke Blue Devils,8.15,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Michigan Wolverines,8.15,5,2026-10-31 16:30:00+00:00,2026-11-07
+cfb,Texas State Bobcats,7.92,5,2026-11-01 02:00:00+00:00,2026-11-07
+cfb,Virginia Cavaliers,7.81,6,2026-10-31 19:45:00+00:00,2026-11-07
+cfb,Houston Cougars,7.71,5,2026-10-25 02:15:00+00:00,2026-11-07
+cfb,Arizona Wildcats,7.4,6,2026-11-07 03:15:00+00:00,2026-11-07
+cfb,Liberty Flames,7.37,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,South Florida Bulls,7.32,6,2026-11-07 00:30:00+00:00,2026-11-07
+cfb,Ole Miss Rebels,7.22,5,2026-10-31 16:45:00+00:00,2026-11-07
+cfb,Northwestern Wildcats,7.2,6,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,North Dakota State Bison,6.89,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,North Carolina Tar Heels,6.88,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,Oklahoma State Cowboys,6.87,5,2026-10-31 23:00:00+00:00,2026-11-07
+cfb,USC Trojans,6.74,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,NC State Wolfpack,6.71,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Texas A&M Aggies,6.39,5,2026-10-24 19:30:00+00:00,2026-11-07
+cfb,Western Michigan Broncos,6.35,6,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,UCLA Bruins,6.03,5,2026-10-31 20:15:00+00:00,2026-11-07
+cfb,Penn State Nittany Lions,5.96,5,2026-10-31 20:15:00+00:00,2026-11-07
+cfb,Florida Gators,5.88,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Nebraska Cornhuskers,5.55,6,2026-11-07 01:00:00+00:00,2026-11-07
+cfb,East Carolina Pirates,5.45,6,2026-11-07 00:30:00+00:00,2026-11-07
+cfb,Army Black Knights,5.07,6,2026-11-01 00:00:00+00:00,2026-11-07
+cfb,Baylor Bears,4.58,5,2026-10-30 23:30:00+00:00,2026-11-07
+cfb,Ohio Bobcats,4.34,6,2026-11-04 00:00:00+00:00,2026-11-07
+cfb,Louisiana Tech Bulldogs,4.16,5,2026-10-31 19:00:00+00:00,2026-11-07
+cfb,TCU Horned Frogs,4.15,6,2026-11-07 03:15:00+00:00,2026-11-07
+cfb,UNLV Rebels,4.01,5,2026-11-01 02:30:00+00:00,2026-11-07
+cfb,Tennessee Volunteers,3.55,5,2026-10-24 19:30:00+00:00,2026-11-07
+cfb,Iowa Hawkeyes,3.53,5,2026-10-31 16:10:00+00:00,2026-11-07
+cfb,Georgia Tech Yellow Jackets,3.43,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,Florida Atlantic Owls,3.33,6,2026-11-06 00:30:00+00:00,2026-11-07
+cfb,Temple Owls,3.28,5,2026-10-31 19:00:00+00:00,2026-11-07
+cfb,Missouri Tigers,3.28,5,2026-10-31 23:45:00+00:00,2026-11-07
+cfb,Kansas State Wildcats,3.21,5,2026-10-31 18:00:00+00:00,2026-11-07
+cfb,Oklahoma Sooners,3.13,5,2026-10-31 20:15:00+00:00,2026-11-07
+cfb,Kentucky Wildcats,3.1,5,2026-10-24 23:30:00+00:00,2026-11-07
+cfb,Wisconsin Badgers,2.65,5,2026-10-31 16:10:00+00:00,2026-11-07
+cfb,Fresno State Bulldogs,2.27,5,2026-11-01 03:00:00+00:00,2026-11-07
+cfb,Tulane Green Wave,2.18,5,2026-10-30 23:00:00+00:00,2026-11-07
+cfb,Kansas Jayhawks,2.09,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Tulsa Golden Hurricane,1.88,5,2026-10-24 00:30:00+00:00,2026-11-07
+cfb,South Carolina Gamecocks,1.82,5,2026-10-31 20:15:00+00:00,2026-11-07
+cfb,Jacksonville State Gamecocks,1.74,4,2026-10-29 00:00:00+00:00,2026-11-07
+cfb,Navy Midshipmen,1.69,6,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Louisiana Ragin Cajuns,1.66,5,2026-10-24 21:00:00+00:00,2026-11-07
+cfb,Florida International Panthers,1.59,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,UConn Huskies,1.44,5,2026-10-31 19:00:00+00:00,2026-11-07
+cfb,Arizona State Sun Devils,1.43,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Syracuse Orange,1.31,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Washington Huskies,1.26,5,2026-11-01 00:00:00+00:00,2026-11-07
+cfb,UAB Blazers,1.12,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Miami (OH) RedHawks,1.02,6,2026-11-04 01:00:00+00:00,2026-11-07
+cfb,Auburn Tigers,0.57,5,2026-10-31 16:45:00+00:00,2026-11-07
+cfb,California Golden Bears,0.1,6,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Georgia State Panthers,0.05,5,2026-10-31 18:00:00+00:00,2026-11-07
+cfb,Boston College Eagles,-0.0,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Air Force Falcons,-0.04,6,2026-10-31 19:00:00+00:00,2026-11-07
+cfb,UCF Knights,-0.2,5,2026-10-30 23:30:00+00:00,2026-11-07
+cfb,Cincinnati Bearcats,-0.26,5,2026-10-31 19:45:00+00:00,2026-11-07
+cfb,West Virginia Mountaineers,-0.54,5,2026-10-24 16:00:00+00:00,2026-11-07
+cfb,Illinois Fighting Illini,-0.6,6,2026-11-07 01:00:00+00:00,2026-11-07
+cfb,Georgia Southern Eagles,-0.81,5,2026-10-31 22:30:00+00:00,2026-11-07
+cfb,Marshall Thundering Herd,-1.0,5,2026-10-31 17:00:00+00:00,2026-11-07
+cfb,Western Kentucky Hilltoppers,-1.02,5,2026-10-27 23:00:00+00:00,2026-11-07
+cfb,Mississippi State Bulldogs,-1.05,5,2026-10-31 23:30:00+00:00,2026-11-07
+cfb,Iowa State Cyclones,-1.15,5,2026-10-31 23:00:00+00:00,2026-11-07
+cfb,Stanford Cardinal,-1.52,6,2026-10-31 19:15:00+00:00,2026-11-07
+cfb,Utah State Aggies,-1.56,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Appalachian State Mountaineers,-1.6,5,2026-10-31 22:30:00+00:00,2026-11-07
+cfb,Eastern Michigan Eagles,-1.87,6,2026-11-05 00:30:00+00:00,2026-11-07
+cfb,Colorado Buffaloes,-2.05,5,2026-10-31 18:00:00+00:00,2026-11-07
+cfb,South Alabama Jaguars,-2.17,5,2026-10-31 19:00:00+00:00,2026-11-07
+cfb,Minnesota Golden Gophers,-2.23,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Arkansas State Red Wolves,-2.25,5,2026-10-24 23:00:00+00:00,2026-11-07
+cfb,Coastal Carolina Chanticleers,-2.26,5,2026-10-31 18:00:00+00:00,2026-11-07
+cfb,New Mexico State Aggies,-2.36,5,2026-10-29 00:00:00+00:00,2026-11-07
+cfb,San Diego State Aztecs,-2.42,6,2026-10-31 23:00:00+00:00,2026-11-07
+cfb,Delaware Blue Hens,-2.49,5,2026-10-27 23:00:00+00:00,2026-11-07
+cfb,Purdue Boilermakers,-2.6,5,2026-10-31 20:15:00+00:00,2026-11-07
+cfb,Central Michigan Chippewas,-2.87,6,2026-11-05 00:30:00+00:00,2026-11-07
+cfb,Troy Trojans,-2.88,5,2026-10-29 23:30:00+00:00,2026-11-07
+cfb,Washington State Cougars,-2.94,6,2026-10-31 23:00:00+00:00,2026-11-07
+cfb,Buffalo Bulls,-3.33,6,2026-11-04 01:00:00+00:00,2026-11-07
+cfb,Kennesaw State Owls,-3.67,5,2026-10-28 23:00:00+00:00,2026-11-07
+cfb,Rice Owls,-3.97,5,2026-10-24 16:00:00+00:00,2026-11-07
+cfb,Colorado State Rams,-4.0,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Michigan State Spartans,-4.35,5,2026-10-24 19:30:00+00:00,2026-11-07
+cfb,Vanderbilt Commodores,-4.74,5,2026-10-24 23:30:00+00:00,2026-11-07
+cfb,Maryland Terrapins,-4.74,5,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Old Dominion Monarchs,-5.02,6,2026-10-31 17:00:00+00:00,2026-11-07
+cfb,Rutgers Scarlet Knights,-5.19,5,2026-10-31 16:30:00+00:00,2026-11-07
+cfb,Missouri State Bears,-5.27,5,2026-10-28 00:00:00+00:00,2026-11-07
+cfb,Nevada Wolf Pack,-5.66,6,2026-11-07 02:00:00+00:00,2026-11-07
+cfb,Middle Tennessee Blue Raiders,-5.88,5,2026-10-28 23:00:00+00:00,2026-11-07
+cfb,Kent State Golden Flashes,-6.06,6,2026-10-31 02:30:00+00:00,2026-11-07
+cfb,San Jose State Spartans,-6.12,5,2026-10-31 20:00:00+00:00,2026-11-07
+cfb,Bowling Green Falcons,-6.19,6,2026-10-31 16:05:00+00:00,2026-11-07
+cfb,Arkansas Razorbacks,-6.51,5,2026-10-31 23:45:00+00:00,2026-11-07
+cfb,UMass Minutemen,-6.91,6,2026-11-05 00:00:00+00:00,2026-11-07
+cfb,Hawaii Rainbow Warriors,-6.96,5,2026-10-24 19:30:00+00:00,2026-11-07
+cfb,Sam Houston State Bearkats,-7.14,5,2026-10-28 00:00:00+00:00,2026-11-07
+cfb,Wyoming Cowboys,-7.47,5,2026-10-24 01:00:00+00:00,2026-11-07
+cfb,Akron Zips,-8.06,6,2026-11-04 00:00:00+00:00,2026-11-07
+cfb,Southern Mississippi Golden Eagles,-8.74,6,2026-11-06 01:00:00+00:00,2026-11-07
+cfb,Ball State Cardinals,-9.35,6,2026-11-05 00:00:00+00:00,2026-11-07
+cfb,Incarnate Word Cardinals,-10.74,1,2026-09-26 22:00:00+00:00,2026-11-07
+cfb,Charlotte 49ers,-10.96,5,2026-10-30 23:00:00+00:00,2026-11-07
+cfb,Northern Illinois Huskies,-11.28,5,2026-11-01 02:30:00+00:00,2026-11-07
+cfb,UL Monroe Warhawks,-12.09,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,UTEP Miners,-12.36,5,2026-10-31 19:30:00+00:00,2026-11-07
+cfb,Gardner-Webb Runnin Bulldogs,-12.55,1,2026-09-26 19:30:00+00:00,2026-11-07
+cfb,Lindenwood Lions,-13.01,1,2026-09-26 17:00:00+00:00,2026-11-07
+cfb,Houston Baptist Huskies,-13.04,1,2026-09-26 23:30:00+00:00,2026-11-07
+cfb,Stonehill Skyhawks,-13.49,1,2026-09-26 19:30:00+00:00,2026-11-07
+cfb,Robert Morris Colonials,-15.46,1,2026-09-26 19:30:00+00:00,2026-11-07
+cfb,Samford Bulldogs,-15.53,1,2026-10-03 19:30:00+00:00,2026-11-07
+cfb,Sacramento State Hornets,-15.53,6,2026-11-05 00:00:00+00:00,2026-11-07
+cfb,North Carolina Central Eagles,-15.61,1,2026-09-26 20:00:00+00:00,2026-11-07
+cfb,William and Mary Tribe,-16.82,1,2026-09-26 19:30:00+00:00,2026-11-07
+cfb,Central Arkansas Bears,-17.48,1,2026-09-26 19:00:00+00:00,2026-11-07
+cfb,LIU Sharks,-17.72,1,2026-09-26 22:00:00+00:00,2026-11-07
+cfb,Charleston Southern Buccaneers,-20.46,1,2026-10-17 16:00:00+00:00,2026-11-07
+cfb,Mercyhurst Lakers,-20.79,1,2026-09-26 23:00:00+00:00,2026-11-07
+cfb,McNeese State Cowboys,-21.06,1,2026-10-03 23:45:00+00:00,2026-11-07
+cfb,Elon Phoenix,-21.54,1,2026-10-17 23:30:00+00:00,2026-11-07
+cfb,Bucknell Bison,-21.99,1,2026-09-26 16:00:00+00:00,2026-11-07
+cfb,Texas Southern Tigers,-22.8,1,2026-10-03 22:00:00+00:00,2026-11-07
+cfb,Citadel Bulldogs,-23.79,1,2026-10-17 17:00:00+00:00,2026-11-07
+cfb,Howard Bison,-24.08,1,2026-09-25 23:00:00+00:00,2026-11-07
+nfl,Jacksonville Jaguars,5.45,7,2026-11-06 01:15:00+00:00,2026-11-07
+nfl,Cincinnati Bengals,4.41,5,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Seattle Seahawks,4.33,7,2026-11-03 01:20:00+00:00,2026-11-07
+nfl,Los Angeles Rams,3.7,7,2026-11-01 21:05:00+00:00,2026-11-07
+nfl,Kansas City Chiefs,3.64,6,2026-11-01 21:25:00+00:00,2026-11-07
+nfl,Detroit Lions,3.28,5,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,San Francisco 49ers,2.97,6,2026-10-25 17:00:00+00:00,2026-11-07
+nfl,Houston Texans,2.91,5,2026-10-25 17:00:00+00:00,2026-11-07
+nfl,Buffalo Bills,2.82,5,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Minnesota Vikings,2.02,5,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Denver Broncos,1.78,7,2026-11-01 21:25:00+00:00,2026-11-07
+nfl,Dallas Cowboys,1.74,7,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Green Bay Packers,1.05,6,2026-10-30 00:15:00+00:00,2026-11-07
+nfl,New England Patriots,1.05,6,2026-11-01 21:25:00+00:00,2026-11-07
+nfl,Chicago Bears,0.85,6,2026-11-03 01:20:00+00:00,2026-11-07
+nfl,Pittsburgh Steelers,0.68,6,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Baltimore Ravens,-0.25,7,2026-11-06 01:15:00+00:00,2026-11-07
+nfl,Carolina Panthers,-0.51,5,2026-10-30 00:15:00+00:00,2026-11-07
+nfl,Atlanta Falcons,-1.36,6,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Indianapolis Colts,-1.41,7,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Los Angeles Chargers,-1.62,6,2026-11-01 21:05:00+00:00,2026-11-07
+nfl,New Orleans Saints,-1.9,5,2026-10-25 13:30:00+00:00,2026-11-07
+nfl,Washington Commanders,-2.19,6,2026-11-02 01:20:00+00:00,2026-11-07
+nfl,Tampa Bay Buccaneers,-2.22,6,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Las Vegas Raiders,-2.36,7,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,New York Jets,-2.58,6,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Philadelphia Eagles,-2.78,6,2026-11-02 01:20:00+00:00,2026-11-07
+nfl,Cleveland Browns,-2.94,6,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,Arizona Cardinals,-3.75,7,2026-11-01 18:00:00+00:00,2026-11-07
+nfl,New York Giants,-4.6,6,2026-10-25 17:00:00+00:00,2026-11-07
+nfl,Miami Dolphins,-5.81,6,2026-11-01 21:25:00+00:00,2026-11-07
+nfl,Tennessee Titans,-6.39,6,2026-11-01 18:00:00+00:00,2026-11-07
